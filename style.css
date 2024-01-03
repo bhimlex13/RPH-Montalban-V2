@@ -283,10 +283,10 @@ body {
   color: var(--text-color);
 }
 
-.services-content video {
+.services-content iframe {
   max-width: 100%;
   /* border: .2rem solid var(--main-color); */
-  margin-bottom: .8rem;
+  margin-bottom: .2rem;
 }
 .services-content a {
   color: var(--second-text-color);
